@@ -1,0 +1,5 @@
+# -Traffic-and-Ped-Density
+Are you tired of to much Peds or cars or do you need more peds and cars just get this and your problems will be solved. Dm me on Discord Madness#7815.
+This is the same as a normal resource Installation.
+Go to the traffic.lua file and i will suggest you to get visual Studio to open it,You can still open it with notepad or notepad++ or whatever software you use.
+Go to where you see Local Config,you can change the ped or traffic frequency whatever up to 10 then go to your server.cfg do either ensure or start traffic whatever one you use.
